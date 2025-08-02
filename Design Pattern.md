@@ -411,6 +411,4 @@ public:
 ```
 Many Java experts, including [**Joshua Bloch**](https://en.wikipedia.org/wiki/Joshua_Bloch), recommend Enum Singleton as the best singleton implementation in Java.
 
-Warning
-
-It may not always be suitable especially if you need to extend a class or if lazy initialization is a strict requirement.
+>> Warning:It may not always be suitable especially if you need to extend a class or if lazy initialization is a strict requirement.
