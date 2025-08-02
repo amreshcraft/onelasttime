@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Behavioral Round.md",
+                "file": "Design Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Behavioral Round"
+              "title": "Design Pattern"
             }
           }
         ],
@@ -233,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 555.5
   },
   "right": {
     "id": "4724d79b72abb6a4",
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Behavioral Round.md",
+                "file": "Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Behavioral Round"
+              "title": "Backlinks for Design Pattern"
             }
           },
           {
@@ -268,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Behavioral Round.md",
+                "file": "Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Behavioral Round"
+              "title": "Outgoing links from Design Pattern"
             }
           },
           {
@@ -297,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Behavioral Round.md",
+                "file": "Design Pattern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Behavioral Round"
+              "title": "Outline of Design Pattern"
             }
           }
         ]
@@ -325,8 +325,23 @@
   },
   "active": "b0a6014242ae7b01",
   "lastOpenFiles": [
-    "Backend.md",
+    "UML.md",
+    "images/uml/class-diagram-assosciation-dark.png",
+    "images/uml/class-diagram-aggregation-dark.png",
+    "images/uml/class-diagram-composition-dark.png",
+    "images/uml/class-diagram-inheritance-dark.png",
+    "images/uml/class-diagram-implementation-dark.png",
+    "images/uml/class-diagram-dependency-dark.png",
+    "images/uml/class-diagram-example-dark.png",
+    "images/design-pattern/singleton.png",
+    "images/uml/enumeration.png",
+    "images/uml/abstract.png",
+    "images/uml",
+    "Design Pattern.md",
+    "images/design-pattern",
+    "images",
     "Behavioral Round.md",
+    "Backend.md",
     "SpringBoot.md",
     "Java.md",
     "DBMS.md",
@@ -335,7 +350,6 @@
     "Networking.md",
     "OS.md",
     "System Design.md",
-    "Design Pattern.md",
     "DSA.md",
     "Welcome.md"
   ]
